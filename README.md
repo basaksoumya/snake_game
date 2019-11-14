@@ -1,2 +1,2 @@
 # snake_game
-a simple snake game(not complete )
+a simple snake game(has some bugs ).
